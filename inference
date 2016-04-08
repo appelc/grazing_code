@@ -1,4 +1,6 @@
 ##WLDF 510 R script - comparison of "NHST", ML, and Bayesian approaches to inference
+# test comment
+
 
 ##required library - a new one for use, probably - metafor
 require(metafor)
